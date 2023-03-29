@@ -1,0 +1,23 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "gradle",
+			"id": "c:\\Users\\karen\\OneDrive - University of Waterloo\\Project\\kyklin\\a2tasksSpaceInvaders",
+			"script": "tasks",
+			"description": "Displays the tasks runnable from root project 'SpaceInvaders'.",
+			"group": "help",
+			"project": "SpaceInvaders",
+			"buildFile": "C:\\Users\\karen\\OneDrive - University of Waterloo\\Project\\kyklin\\a2\\build.gradle",
+			"rootProject": "SpaceInvaders",
+			"projectFolder": "c:\\Users\\karen\\OneDrive - University of Waterloo\\Project\\kyklin\\a2",
+			"workspaceFolder": "c:\\Users\\karen\\OneDrive - University of Waterloo\\Project\\kyklin\\a2",
+			"args": "",
+			"javaDebug": false,
+			"problemMatcher": [
+				"$gradle"
+			],
+			"label": "gradle: tasks"
+		}
+	]
+}
