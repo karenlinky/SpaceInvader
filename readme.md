@@ -1,3 +1,4 @@
+# CS349 (User Interfaces) Project
 Ka Ying Karen Lin<br/>
 openjdk 11.0.11 2021-04-20<br/>
 Used sound/image files provided by the CS349 instructor
